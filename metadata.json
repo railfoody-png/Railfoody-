@@ -1,0 +1,6 @@
+{
+  "name": "Railfoody - India's No. 1 Train Food Delivery",
+  "description": "Order fresh, hygienic, and delicious restaurant food on your train journey at Jabalpur Junction and major Indian Railway stations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

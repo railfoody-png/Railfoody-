@@ -1,0 +1,1351 @@
+{
+  "trains": [
+    {
+      "id": "12192",
+      "trainNumber": "12192",
+      "trainName": "Shridham Superfast Express",
+      "sourceStation": "Jabalpur Jn (JBP)",
+      "destStation": "Hazrat Nizamuddin (NZM)",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "classes": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+      ],
+      "lastUpdated": "2026-10-14T10:00:00.000Z",
+      "syncStatus": "Verified Official Railway Schedule",
+      "halts": [
+        {
+          "code": "JBP",
+          "name": "Jabalpur Junction",
+          "arr": "--",
+          "dep": "17:45",
+          "halt": "Origin",
+          "day": 1
+        },
+        {
+          "code": "MML",
+          "name": "Madan Mahal",
+          "arr": "17:53",
+          "dep": "17:55",
+          "halt": "2 min",
+          "day": 1
+        },
+        {
+          "code": "SRID",
+          "name": "Shridham",
+          "arr": "18:33",
+          "dep": "18:35",
+          "halt": "2 min",
+          "day": 1
+        },
+        {
+          "code": "NU",
+          "name": "Narsinghpur",
+          "arr": "18:58",
+          "dep": "19:00",
+          "halt": "2 min",
+          "day": 1
+        },
+        {
+          "code": "KY",
+          "name": "Kareli",
+          "arr": "19:13",
+          "dep": "19:15",
+          "halt": "2 min",
+          "day": 1
+        },
+        {
+          "code": "GAR",
+          "name": "Gadarwara",
+          "arr": "19:38",
+          "dep": "19:40",
+          "halt": "2 min",
+          "day": 1
+        },
+        {
+          "code": "PPI",
+          "name": "Pipariya",
+          "arr": "20:13",
+          "dep": "20:15",
+          "halt": "2 min",
+          "day": 1
+        },
+        {
+          "code": "ET",
+          "name": "Itarsi Junction",
+          "arr": "21:30",
+          "dep": "21:40",
+          "halt": "10 min",
+          "day": 1
+        },
+        {
+          "code": "BPL",
+          "name": "Bhopal Junction",
+          "arr": "23:25",
+          "dep": "23:30",
+          "halt": "5 min",
+          "day": 1
+        },
+        {
+          "code": "VGLJ",
+          "name": "VGL Jhansi Junction",
+          "arr": "04:10",
+          "dep": "04:18",
+          "halt": "8 min",
+          "day": 2
+        },
+        {
+          "code": "GWL",
+          "name": "Gwalior Junction",
+          "arr": "05:25",
+          "dep": "05:27",
+          "halt": "2 min",
+          "day": 2
+        },
+        {
+          "code": "AGC",
+          "name": "Agra Cantt",
+          "arr": "07:45",
+          "dep": "07:50",
+          "halt": "5 min",
+          "day": 2
+        },
+        {
+          "code": "NZM",
+          "name": "Hazrat Nizamuddin",
+          "arr": "11:55",
+          "dep": "--",
+          "halt": "Terminates",
+          "day": 2
+        }
+      ]
+    },
+    {
+      "id": "22181",
+      "trainNumber": "22181",
+      "trainName": "Jabalpur - Hazrat Nizamuddin Gondwana Express",
+      "sourceStation": "Jabalpur Jn (JBP)",
+      "destStation": "Hazrat Nizamuddin (NZM)",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "classes": [
+        "1A",
+        "2A",
+        "3A",
+        "SL"
+      ],
+      "lastUpdated": "2026-10-14T10:00:00.000Z",
+      "syncStatus": "Verified Official Railway Schedule",
+      "halts": [
+        {
+          "code": "JBP",
+          "name": "Jabalpur Junction",
+          "arr": "--",
+          "dep": "15:15",
+          "halt": "Origin",
+          "day": 1
+        },
+        {
+          "code": "KMZ",
+          "name": "Katni Murwara",
+          "arr": "16:35",
+          "dep": "16:40",
+          "halt": "5 min",
+          "day": 1
+        },
+        {
+          "code": "DMO",
+          "name": "Damoh",
+          "arr": "17:58",
+          "dep": "18:00",
+          "halt": "2 min",
+          "day": 1
+        },
+        {
+          "code": "SGO",
+          "name": "Saugor",
+          "arr": "19:05",
+          "dep": "19:10",
+          "halt": "5 min",
+          "day": 1
+        },
+        {
+          "code": "BINA",
+          "name": "Bina Junction",
+          "arr": "20:50",
+          "dep": "20:55",
+          "halt": "5 min",
+          "day": 1
+        },
+        {
+          "code": "VGLJ",
+          "name": "VGL Jhansi Junction",
+          "arr": "22:50",
+          "dep": "22:58",
+          "halt": "8 min",
+          "day": 1
+        },
+        {
+          "code": "GWL",
+          "name": "Gwalior Junction",
+          "arr": "00:08",
+          "dep": "00:10",
+          "halt": "2 min",
+          "day": 2
+        },
+        {
+          "code": "AGC",
+          "name": "Agra Cantt",
+          "arr": "01:50",
+          "dep": "01:55",
+          "halt": "5 min",
+          "day": 2
+        },
+        {
+          "code": "NZM",
+          "name": "Hazrat Nizamuddin",
+          "arr": "04:15",
+          "dep": "--",
+          "halt": "Terminates",
+          "day": 2
+        }
+      ]
+    },
+    {
+      "id": "12062",
+      "trainNumber": "12062",
+      "trainName": "Jabalpur - Rani Kamlapati Jan Shatabdi Express",
+      "sourceStation": "Jabalpur Jn (JBP)",
+      "destStation": "Rani Kamlapati (RKMP)",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "classes": [
+        "CC",
+        "2S"
+      ],
+      "lastUpdated": "2026-10-14T10:00:00.000Z",
+      "syncStatus": "Verified Official Railway Schedule",
+      "halts": [
+        {
+          "code": "JBP",
+          "name": "Jabalpur Junction",
+          "arr": "--",
+          "dep": "05:30",
+          "halt": "Origin",
+          "day": 1
+        },
+        {
+          "code": "MML",
+          "name": "Madan Mahal",
+          "arr": "05:38",
+          "dep": "05:40",
+          "halt": "2 min",
+          "day": 1
+        },
+        {
+          "code": "SRID",
+          "name": "Shridham",
+          "arr": "06:14",
+          "dep": "06:15",
+          "halt": "1 min",
+          "day": 1
+        },
+        {
+          "code": "NU",
+          "name": "Narsinghpur",
+          "arr": "06:38",
+          "dep": "06:40",
+          "halt": "2 min",
+          "day": 1
+        },
+        {
+          "code": "GAR",
+          "name": "Gadarwara",
+          "arr": "07:13",
+          "dep": "07:15",
+          "halt": "2 min",
+          "day": 1
+        },
+        {
+          "code": "PPI",
+          "name": "Pipariya",
+          "arr": "07:48",
+          "dep": "07:50",
+          "halt": "2 min",
+          "day": 1
+        },
+        {
+          "code": "ET",
+          "name": "Itarsi Junction",
+          "arr": "08:55",
+          "dep": "09:05",
+          "halt": "10 min",
+          "day": 1
+        },
+        {
+          "code": "HBD",
+          "name": "Narmadapuram",
+          "arr": "09:23",
+          "dep": "09:25",
+          "halt": "2 min",
+          "day": 1
+        },
+        {
+          "code": "RKMP",
+          "name": "Rani Kamlapati",
+          "arr": "11:15",
+          "dep": "--",
+          "halt": "Terminates",
+          "day": 1
+        }
+      ]
+    },
+    {
+      "id": "12189",
+      "trainNumber": "12189",
+      "trainName": "Mahakaushal Express",
+      "sourceStation": "Jabalpur Jn (JBP)",
+      "destStation": "Hazrat Nizamuddin (NZM)",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "classes": [
+        "1A",
+        "2A",
+        "3A",
+        "SL"
+      ],
+      "lastUpdated": "2026-10-14T10:00:00.000Z",
+      "syncStatus": "Verified Official Railway Schedule",
+      "halts": [
+        {
+          "code": "JBP",
+          "name": "Jabalpur Junction",
+          "arr": "--",
+          "dep": "18:10",
+          "halt": "Origin",
+          "day": 1
+        },
+        {
+          "code": "SHR",
+          "name": "Sihora Road",
+          "arr": "18:43",
+          "dep": "18:45",
+          "halt": "2 min",
+          "day": 1
+        },
+        {
+          "code": "KTE",
+          "name": "Katni Junction",
+          "arr": "19:40",
+          "dep": "19:45",
+          "halt": "5 min",
+          "day": 1
+        },
+        {
+          "code": "MYR",
+          "name": "Maihar",
+          "arr": "20:33",
+          "dep": "20:35",
+          "halt": "2 min",
+          "day": 1
+        },
+        {
+          "code": "STA",
+          "name": "Satna Junction",
+          "arr": "21:10",
+          "dep": "21:15",
+          "halt": "5 min",
+          "day": 1
+        },
+        {
+          "code": "VGLJ",
+          "name": "VGL Jhansi Junction",
+          "arr": "03:40",
+          "dep": "03:48",
+          "halt": "8 min",
+          "day": 2
+        },
+        {
+          "code": "GWL",
+          "name": "Gwalior Junction",
+          "arr": "05:15",
+          "dep": "05:17",
+          "halt": "2 min",
+          "day": 2
+        },
+        {
+          "code": "AGC",
+          "name": "Agra Cantt",
+          "arr": "07:10",
+          "dep": "07:15",
+          "halt": "5 min",
+          "day": 2
+        },
+        {
+          "code": "NZM",
+          "name": "Hazrat Nizamuddin",
+          "arr": "11:10",
+          "dep": "--",
+          "halt": "Terminates",
+          "day": 2
+        }
+      ]
+    },
+    {
+      "id": "12321",
+      "trainNumber": "12321",
+      "trainName": "Howrah - CSMT Mumbai Mail",
+      "sourceStation": "Howrah Jn (HWH)",
+      "destStation": "CSMT Mumbai (CSMT)",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "classes": [
+        "1A",
+        "2A",
+        "3A",
+        "SL"
+      ],
+      "lastUpdated": "2026-10-14T10:00:00.000Z",
+      "syncStatus": "Verified Official Railway Schedule",
+      "halts": [
+        {
+          "code": "HWH",
+          "name": "Howrah Junction",
+          "arr": "--",
+          "dep": "23:35",
+          "halt": "Origin",
+          "day": 1
+        },
+        {
+          "code": "DDU",
+          "name": "Pt DD Upadhyaya Jn",
+          "arr": "10:05",
+          "dep": "10:15",
+          "halt": "10 min",
+          "day": 2
+        },
+        {
+          "code": "PCOI",
+          "name": "Prayagraj Chheoki",
+          "arr": "13:15",
+          "dep": "13:17",
+          "halt": "2 min",
+          "day": 2
+        },
+        {
+          "code": "STA",
+          "name": "Satna Junction",
+          "arr": "16:00",
+          "dep": "16:05",
+          "halt": "5 min",
+          "day": 2
+        },
+        {
+          "code": "KTE",
+          "name": "Katni Junction",
+          "arr": "17:05",
+          "dep": "17:10",
+          "halt": "5 min",
+          "day": 2
+        },
+        {
+          "code": "JBP",
+          "name": "Jabalpur Junction",
+          "arr": "18:25",
+          "dep": "18:35",
+          "halt": "10 min",
+          "day": 2
+        },
+        {
+          "code": "ET",
+          "name": "Itarsi Junction",
+          "arr": "22:10",
+          "dep": "22:20",
+          "halt": "10 min",
+          "day": 2
+        },
+        {
+          "code": "BSL",
+          "name": "Bhusaval Junction",
+          "arr": "04:00",
+          "dep": "04:05",
+          "halt": "5 min",
+          "day": 3
+        },
+        {
+          "code": "CSMT",
+          "name": "Mumbai CSMT",
+          "arr": "13:15",
+          "dep": "--",
+          "halt": "Terminates",
+          "day": 3
+        }
+      ]
+    },
+    {
+      "id": "20174",
+      "trainNumber": "20174",
+      "trainName": "Rewa - Rani Kamlapati Vande Bharat Express",
+      "sourceStation": "Rewa (REWA)",
+      "destStation": "Rani Kamlapati (RKMP)",
+      "days": [
+        "Mon",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "classes": [
+        "EC",
+        "CC"
+      ],
+      "lastUpdated": "2026-10-14T10:00:00.000Z",
+      "syncStatus": "Verified Official Railway Schedule",
+      "halts": [
+        {
+          "code": "REWA",
+          "name": "Rewa",
+          "arr": "--",
+          "dep": "05:30",
+          "halt": "Origin",
+          "day": 1
+        },
+        {
+          "code": "STA",
+          "name": "Satna Junction",
+          "arr": "06:10",
+          "dep": "06:15",
+          "halt": "5 min",
+          "day": 1
+        },
+        {
+          "code": "MYR",
+          "name": "Maihar",
+          "arr": "06:40",
+          "dep": "06:42",
+          "halt": "2 min",
+          "day": 1
+        },
+        {
+          "code": "KTE",
+          "name": "Katni Junction",
+          "arr": "07:28",
+          "dep": "07:30",
+          "halt": "2 min",
+          "day": 1
+        },
+        {
+          "code": "JBP",
+          "name": "Jabalpur Junction",
+          "arr": "08:45",
+          "dep": "08:55",
+          "halt": "10 min",
+          "day": 1
+        },
+        {
+          "code": "PPI",
+          "name": "Pipariya",
+          "arr": "10:58",
+          "dep": "11:00",
+          "halt": "2 min",
+          "day": 1
+        },
+        {
+          "code": "ET",
+          "name": "Itarsi Junction",
+          "arr": "12:20",
+          "dep": "12:25",
+          "halt": "5 min",
+          "day": 1
+        },
+        {
+          "code": "RKMP",
+          "name": "Rani Kamlapati",
+          "arr": "13:30",
+          "dep": "--",
+          "halt": "Terminates",
+          "day": 1
+        }
+      ]
+    },
+    {
+      "id": "12159",
+      "trainNumber": "12159",
+      "trainName": "Amarkantak Express",
+      "sourceStation": "Jabalpur Jn (JBP)",
+      "destStation": "Durg (DURG)",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "classes": [
+        "1A",
+        "2A",
+        "3A",
+        "SL"
+      ],
+      "lastUpdated": "2026-10-14T10:00:00.000Z",
+      "syncStatus": "Verified Official Railway Schedule",
+      "halts": [
+        {
+          "code": "JBP",
+          "name": "Jabalpur Junction",
+          "arr": "--",
+          "dep": "21:20",
+          "halt": "Origin",
+          "day": 1
+        },
+        {
+          "code": "SHR",
+          "name": "Sihora Road",
+          "arr": "21:53",
+          "dep": "21:55",
+          "halt": "2 min",
+          "day": 1
+        },
+        {
+          "code": "KTE",
+          "name": "Katni Junction",
+          "arr": "22:45",
+          "dep": "22:50",
+          "halt": "5 min",
+          "day": 1
+        },
+        {
+          "code": "UMR",
+          "name": "Umaria",
+          "arr": "00:06",
+          "dep": "00:08",
+          "halt": "2 min",
+          "day": 2
+        },
+        {
+          "code": "SDL",
+          "name": "Shahdol",
+          "arr": "01:05",
+          "dep": "01:10",
+          "halt": "5 min",
+          "day": 2
+        },
+        {
+          "code": "APR",
+          "name": "Anuppur Junction",
+          "arr": "01:45",
+          "dep": "01:50",
+          "halt": "5 min",
+          "day": 2
+        },
+        {
+          "code": "BSP",
+          "name": "Bilaspur Junction",
+          "arr": "04:35",
+          "dep": "04:50",
+          "halt": "15 min",
+          "day": 2
+        },
+        {
+          "code": "R",
+          "name": "Raipur Junction",
+          "arr": "06:40",
+          "dep": "06:45",
+          "halt": "5 min",
+          "day": 2
+        },
+        {
+          "code": "DURG",
+          "name": "Durg",
+          "arr": "07:45",
+          "dep": "--",
+          "halt": "Terminates",
+          "day": 2
+        }
+      ]
+    },
+    {
+      "id": "11062",
+      "trainNumber": "11062",
+      "trainName": "Pawan Express",
+      "sourceStation": "Jaynagar (JYG)",
+      "destStation": "Lokmanya Tilak Terminus (LTT)",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "classes": [
+        "2A",
+        "3A",
+        "SL"
+      ],
+      "lastUpdated": "2026-10-14T10:00:00.000Z",
+      "syncStatus": "Verified Official Railway Schedule",
+      "halts": [
+        {
+          "code": "JYG",
+          "name": "Jaynagar",
+          "arr": "--",
+          "dep": "13:10",
+          "halt": "Origin",
+          "day": 1
+        },
+        {
+          "code": "PCOI",
+          "name": "Prayagraj Chheoki",
+          "arr": "05:30",
+          "dep": "05:32",
+          "halt": "2 min",
+          "day": 2
+        },
+        {
+          "code": "STA",
+          "name": "Satna Junction",
+          "arr": "08:35",
+          "dep": "08:40",
+          "halt": "5 min",
+          "day": 2
+        },
+        {
+          "code": "KTE",
+          "name": "Katni Junction",
+          "arr": "09:50",
+          "dep": "09:55",
+          "halt": "5 min",
+          "day": 2
+        },
+        {
+          "code": "JBP",
+          "name": "Jabalpur Junction",
+          "arr": "11:10",
+          "dep": "11:20",
+          "halt": "10 min",
+          "day": 2
+        },
+        {
+          "code": "ET",
+          "name": "Itarsi Junction",
+          "arr": "14:40",
+          "dep": "14:50",
+          "halt": "10 min",
+          "day": 2
+        },
+        {
+          "code": "KNW",
+          "name": "Khandwa Junction",
+          "arr": "17:35",
+          "dep": "17:40",
+          "halt": "5 min",
+          "day": 2
+        },
+        {
+          "code": "BSL",
+          "name": "Bhusaval Junction",
+          "arr": "19:25",
+          "dep": "19:30",
+          "halt": "5 min",
+          "day": 2
+        },
+        {
+          "code": "LTT",
+          "name": "Mumbai LTT",
+          "arr": "03:40",
+          "dep": "--",
+          "halt": "Terminates",
+          "day": 3
+        }
+      ]
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "rest-speed-food-hub",
+      "name": "Speed Food Hub",
+      "stationCode": "JBP",
+      "stationName": "Jabalpur Junction (JBP)",
+      "rating": 4.8,
+      "reviewCount": 1650,
+      "minOrder": 110,
+      "prepTime": "15-20 mins",
+      "vegOnly": true,
+      "fssaiLicense": "11422850003189",
+      "image": "/src/assets/images/banner_jabalpur_station_1792004059377.jpg",
+      "address": "Near Platform No. 1 Circulating Area, Jabalpur Junction",
+      "isOpen": true,
+      "phone": "9752693979",
+      "cuisines": [
+        "100% Pure Veg",
+        "Express Thali",
+        "Poha Jalebi",
+        "Snacks",
+        "Chai Flasks"
+      ]
+    },
+    {
+      "id": "rest-choupal-cafe",
+      "name": "Choupal Cafe and Fine Dine",
+      "stationCode": "JBP",
+      "stationName": "Jabalpur Junction (JBP)",
+      "rating": 4.9,
+      "reviewCount": 2480,
+      "minOrder": 150,
+      "prepTime": "15-25 mins",
+      "vegOnly": true,
+      "fssaiLicense": "11421850007842",
+      "image": "/src/assets/images/banner_indian_thali_noface_1792077362523.jpg",
+      "address": "Station Road, Civil Lines Near Railway Station Gate, Jabalpur",
+      "isOpen": true,
+      "phone": "9752693979",
+      "cuisines": [
+        "100% Pure Veg",
+        "Deluxe Maharaja Thali",
+        "Paneer Special",
+        "Jain Satvik Bhojan"
+      ]
+    },
+    {
+      "id": "rest-celebration",
+      "name": "Celebration The Food Junction",
+      "stationCode": "JBP",
+      "stationName": "Jabalpur Junction (JBP)",
+      "rating": 4.8,
+      "reviewCount": 1940,
+      "minOrder": 180,
+      "prepTime": "20-25 mins",
+      "vegOnly": false,
+      "fssaiLicense": "11423850005510",
+      "image": "/src/assets/images/banner_railfoody_brand_1792004058022.jpg",
+      "address": "Station Road, Russel Chowk Link, Jabalpur",
+      "isOpen": true,
+      "phone": "9752693979",
+      "cuisines": [
+        "Dum Biryani",
+        "Chicken Curry Thali",
+        "Mughlai",
+        "Chinese Combos"
+      ]
+    },
+    {
+      "id": "rest-chef-rasoi",
+      "name": "Chef Rasoi Cafe and Restaurant",
+      "stationCode": "JBP",
+      "stationName": "Jabalpur Junction (JBP)",
+      "rating": 4.7,
+      "reviewCount": 1720,
+      "minOrder": 160,
+      "prepTime": "20-30 mins",
+      "vegOnly": false,
+      "fssaiLicense": "11424850009231",
+      "image": "/src/assets/images/banner_delivery_boy_1792004058938.jpg",
+      "address": "Platform 4-5 Exit Road, South Civil Lines, Jabalpur",
+      "isOpen": true,
+      "phone": "9752693979",
+      "cuisines": [
+        "Butter Chicken Meal",
+        "Egg Curry Combo",
+        "Chef Special Paneer",
+        "Chinese"
+      ]
+    }
+  ],
+  "foodItems": [
+    {
+      "id": "food-thali-1",
+      "restaurantId": "rest-choupal-cafe",
+      "restaurantName": "Choupal Cafe and Fine Dine",
+      "name": "Maharaja Deluxe Special Thali",
+      "category": "Thali",
+      "price": 249,
+      "isVeg": true,
+      "image": "/src/assets/images/banner_indian_thali_noface_1792077362523.jpg",
+      "description": "Shahi Paneer, Dal Makhani, Seasonal Subzi, Jeera Rice, 4 Butter Tawa Rotis, Gulab Jamun (1 pc), Papad, Salad & Pickle.",
+      "isAvailable": true,
+      "preparationTime": "20 mins",
+      "rating": 4.9,
+      "popular": true
+    },
+    {
+      "id": "food-thali-2",
+      "restaurantId": "rest-speed-food-hub",
+      "restaurantName": "Speed Food Hub",
+      "name": "Standard Executive Veg Thali",
+      "category": "Thali",
+      "price": 179,
+      "isVeg": true,
+      "image": "/src/assets/images/banner_indian_thali_noface_1792077362523.jpg",
+      "description": "Matar Paneer, Yellow Dal Tadka, Steamed Basmati Rice, 4 Fresh Rotis, Boondi Raita, Salad & Achar.",
+      "isAvailable": true,
+      "preparationTime": "15 mins",
+      "rating": 4.8,
+      "popular": true
+    },
+    {
+      "id": "food-thali-3",
+      "restaurantId": "rest-choupal-cafe",
+      "restaurantName": "Choupal Cafe and Fine Dine",
+      "name": "Special Jain Satvik Thali (No Onion & Garlic)",
+      "category": "Thali",
+      "price": 199,
+      "isVeg": true,
+      "image": "/src/assets/images/banner_indian_thali_noface_1792077362523.jpg",
+      "description": "Prepared without onion or garlic. Paneer Gravy, Moong Dal, Steamed Rice, 4 Ghee Phulkas, Sweet & Salad.",
+      "isAvailable": true,
+      "preparationTime": "20 mins",
+      "rating": 4.9,
+      "popular": true
+    },
+    {
+      "id": "food-thali-4",
+      "restaurantId": "rest-celebration",
+      "restaurantName": "Celebration The Food Junction",
+      "name": "Royal Chicken Curry Thali",
+      "category": "Thali",
+      "price": 279,
+      "isVeg": false,
+      "image": "/src/assets/images/banner_railfoody_brand_1792004058022.jpg",
+      "description": "Delicious Desi Chicken Curry (2 pcs), Dal Tadka, Jeera Rice, 4 Tawa Rotis, Raita, Salad and Sweet.",
+      "isAvailable": true,
+      "preparationTime": "25 mins",
+      "rating": 4.8,
+      "popular": true
+    },
+    {
+      "id": "food-biry-1",
+      "restaurantId": "rest-celebration",
+      "restaurantName": "Celebration The Food Junction",
+      "name": "Hyderabadi Chicken Dum Biryani",
+      "category": "Biryani",
+      "price": 239,
+      "isVeg": false,
+      "image": "/src/assets/images/banner_railfoody_brand_1792004058022.jpg",
+      "description": "Long-grain fragrant Basmati rice cooked with succulent chicken pieces in authentic Hyderabadi spices. Served with Salan & Raita.",
+      "isAvailable": true,
+      "preparationTime": "20 mins",
+      "rating": 4.9,
+      "popular": true
+    },
+    {
+      "id": "food-biry-2",
+      "restaurantId": "rest-celebration",
+      "restaurantName": "Celebration The Food Junction",
+      "name": "Royal Veg Paneer Dum Biryani",
+      "category": "Biryani",
+      "price": 199,
+      "isVeg": true,
+      "image": "/src/assets/images/banner_railfoody_brand_1792004058022.jpg",
+      "description": "Aromatic layered Basmati rice loaded with fresh paneer cubes, saffron, fried onions and garden veggies. With spiced raita.",
+      "isAvailable": true,
+      "preparationTime": "20 mins",
+      "rating": 4.7,
+      "popular": true
+    },
+    {
+      "id": "food-biry-3",
+      "restaurantId": "rest-celebration",
+      "restaurantName": "Celebration The Food Junction",
+      "name": "Egg Dum Biryani Box (2 Eggs)",
+      "category": "Biryani",
+      "price": 189,
+      "isVeg": false,
+      "image": "/src/assets/images/banner_railfoody_brand_1792004058022.jpg",
+      "description": "Fragrant spicy biryani rice loaded with 2 golden roasted eggs. Served with cooling cucumber mint raita and gravy.",
+      "isAvailable": true,
+      "preparationTime": "15 mins",
+      "rating": 4.6
+    },
+    {
+      "id": "food-dal-1",
+      "restaurantId": "rest-speed-food-hub",
+      "restaurantName": "Speed Food Hub",
+      "name": "Desi Dal Tadka with Jeera Rice Combo",
+      "category": "Dal Rice",
+      "price": 149,
+      "isVeg": true,
+      "image": "/src/assets/images/banner_indian_thali_noface_1792077362523.jpg",
+      "description": "Comfort meal of yellow arhar dal with desi ghee garlic-cumin tadka, served hot with aromatic cumin rice, papad and pickle.",
+      "isAvailable": true,
+      "preparationTime": "15 mins",
+      "rating": 4.8,
+      "popular": true
+    },
+    {
+      "id": "food-dal-2",
+      "restaurantId": "rest-choupal-cafe",
+      "restaurantName": "Choupal Cafe and Fine Dine",
+      "name": "Creamy Dal Makhani Rice Bowl",
+      "category": "Dal Rice",
+      "price": 169,
+      "isVeg": true,
+      "image": "/src/assets/images/banner_indian_thali_noface_1792077362523.jpg",
+      "description": "Slow-simmered black lentils in creamy butter gravy, served over hot steamed Basmati rice with fresh onion salad.",
+      "isAvailable": true,
+      "preparationTime": "15 mins",
+      "rating": 4.8
+    },
+    {
+      "id": "food-pan-1",
+      "restaurantId": "rest-choupal-cafe",
+      "restaurantName": "Choupal Cafe and Fine Dine",
+      "name": "Paneer Butter Masala Combo (with 4 Rotis)",
+      "category": "Paneer",
+      "price": 219,
+      "isVeg": true,
+      "image": "/src/assets/images/banner_indian_thali_noface_1792077362523.jpg",
+      "description": "Cottage cheese cubes simmered in velvety tomato cream gravy with fragrant fenugreek, served with 4 soft butter rotis & onion salad.",
+      "isAvailable": true,
+      "preparationTime": "20 mins",
+      "rating": 4.9,
+      "popular": true
+    },
+    {
+      "id": "food-pan-2",
+      "restaurantId": "rest-choupal-cafe",
+      "restaurantName": "Choupal Cafe and Fine Dine",
+      "name": "Kadhai Paneer with Jeera Rice & 2 Parathas",
+      "category": "Paneer",
+      "price": 229,
+      "isVeg": true,
+      "image": "/src/assets/images/banner_indian_thali_noface_1792077362523.jpg",
+      "description": "Fresh cottage cheese tossed with crisp bell peppers, whole spices and rich tomato reduction, served with jeera rice & flaky parathas.",
+      "isAvailable": true,
+      "preparationTime": "20 mins",
+      "rating": 4.8
+    },
+    {
+      "id": "food-veg-1",
+      "restaurantId": "rest-speed-food-hub",
+      "restaurantName": "Speed Food Hub",
+      "name": "Chole Bhature Station Special (2 Pcs)",
+      "category": "Veg Meals",
+      "price": 139,
+      "isVeg": true,
+      "image": "/src/assets/images/banner_railfoody_brand_1792004058022.jpg",
+      "description": "Piping hot fluffy bhaturas served with spicy Punjabi Amritsari chole, tangy green chilli pickle and diced onions.",
+      "isAvailable": true,
+      "preparationTime": "15 mins",
+      "rating": 4.8,
+      "popular": true
+    },
+    {
+      "id": "food-veg-2",
+      "restaurantId": "rest-speed-food-hub",
+      "restaurantName": "Speed Food Hub",
+      "name": "South Indian Idli Vada Combo",
+      "category": "Veg Meals",
+      "price": 119,
+      "isVeg": true,
+      "image": "/src/assets/images/banner_delivery_boy_1792004058938.jpg",
+      "description": "2 Steamed soft idlis + 1 crispy medu vada served with hot piping lentil sambar and fresh coconut chutney.",
+      "isAvailable": true,
+      "preparationTime": "15 mins",
+      "rating": 4.7
+    },
+    {
+      "id": "food-nonveg-1",
+      "restaurantId": "rest-chef-rasoi",
+      "restaurantName": "Chef Rasoi Cafe and Restaurant",
+      "name": "Chef Special Butter Chicken Meal Box (with 4 Rotis + Rice)",
+      "category": "Non-Veg Meals",
+      "price": 269,
+      "isVeg": false,
+      "image": "/src/assets/images/banner_railfoody_brand_1792004058022.jpg",
+      "description": "Boneless tender chicken cooked in rich buttery makhani gravy, served with 4 soft rotis, portion of jeera rice, salad & pickle.",
+      "isAvailable": true,
+      "preparationTime": "20 mins",
+      "rating": 4.9,
+      "popular": true
+    },
+    {
+      "id": "food-nonveg-2",
+      "restaurantId": "rest-chef-rasoi",
+      "restaurantName": "Chef Rasoi Cafe and Restaurant",
+      "name": "Homestyle Desi Egg Curry with Jeera Rice (2 Eggs)",
+      "category": "Non-Veg Meals",
+      "price": 179,
+      "isVeg": false,
+      "image": "/src/assets/images/banner_railfoody_brand_1792004058022.jpg",
+      "description": "Two boiled eggs braised in spiced onion-tomato curry gravy, served hot with aromatic jeera rice and 2 phulkas.",
+      "isAvailable": true,
+      "preparationTime": "15 mins",
+      "rating": 4.7
+    },
+    {
+      "id": "food-chi-1",
+      "restaurantId": "rest-celebration",
+      "restaurantName": "Celebration The Food Junction",
+      "name": "Veg Hakka Noodles with Manchurian Combo",
+      "category": "Chinese",
+      "price": 169,
+      "isVeg": true,
+      "image": "/src/assets/images/banner_delivery_boy_1792004058938.jpg",
+      "description": "Wok-tossed noodles with garden vegetables served with 4 vegetable Manchurian balls in delicious garlic sauce.",
+      "isAvailable": true,
+      "preparationTime": "18 mins",
+      "rating": 4.7
+    },
+    {
+      "id": "food-chi-2",
+      "restaurantId": "rest-chef-rasoi",
+      "restaurantName": "Chef Rasoi Cafe and Restaurant",
+      "name": "Chicken Fried Rice with Chilli Chicken Box",
+      "category": "Chinese",
+      "price": 229,
+      "isVeg": false,
+      "image": "/src/assets/images/banner_delivery_boy_1792004058938.jpg",
+      "description": "Flavorful chicken egg fried rice paired with spicy boneless chilli chicken gravy, fresh spring onions.",
+      "isAvailable": true,
+      "preparationTime": "20 mins",
+      "rating": 4.8
+    },
+    {
+      "id": "food-chef-kadhai",
+      "restaurantId": "rest-chef-rasoi",
+      "restaurantName": "Chef Rasoi Cafe and Restaurant",
+      "name": "Kadhai Chicken Meal Combo (with 4 Butter Rotis)",
+      "category": "Non-Veg Meals",
+      "price": 249,
+      "isVeg": false,
+      "image": "/src/assets/images/banner_indian_thali_noface_1792077362523.jpg",
+      "description": "Tender chicken braised with bell peppers, onions and crushed coriander spices, served with 4 soft butter rotis & onion salad.",
+      "isAvailable": true,
+      "preparationTime": "20 mins",
+      "rating": 4.9,
+      "popular": true
+    },
+    {
+      "id": "food-chef-paneer",
+      "restaurantId": "rest-chef-rasoi",
+      "restaurantName": "Chef Rasoi Cafe and Restaurant",
+      "name": "Chef Rasoi Special Paneer Lababdar Thali",
+      "category": "Paneer",
+      "price": 219,
+      "isVeg": true,
+      "image": "/src/assets/images/banner_indian_thali_noface_1792077362523.jpg",
+      "description": "Creamy grated paneer infused rich gravy with fresh cottage cheese cubes, served with jeera rice, 4 butter phulkas, salad & sweet.",
+      "isAvailable": true,
+      "preparationTime": "20 mins",
+      "rating": 4.8
+    },
+    {
+      "id": "food-snk-1",
+      "restaurantId": "rest-speed-food-hub",
+      "restaurantName": "Speed Food Hub",
+      "name": "Jabalpur Famous Garam Poha Jalebi Combo",
+      "category": "Snacks",
+      "price": 89,
+      "isVeg": true,
+      "image": "/src/assets/images/banner_jabalpur_station_1792004059377.jpg",
+      "description": "Authentic MP Indori/Jabalpuri spicy sev poha topped with onions, served with 2 hot crispy sweet saffron jalebis.",
+      "isAvailable": true,
+      "preparationTime": "10 mins",
+      "rating": 4.9,
+      "popular": true
+    },
+    {
+      "id": "food-snk-2",
+      "restaurantId": "rest-speed-food-hub",
+      "restaurantName": "Speed Food Hub",
+      "name": "Hot Crispy Samosa Plate (2 Pcs with Chutney)",
+      "category": "Snacks",
+      "price": 59,
+      "isVeg": true,
+      "image": "/src/assets/images/banner_railfoody_brand_1792004058022.jpg",
+      "description": "Golden fried crispy potato & pea samosas served with sweet tamarind saunth chutney and spicy mint coriander chutney.",
+      "isAvailable": true,
+      "preparationTime": "10 mins",
+      "rating": 4.8
+    },
+    {
+      "id": "food-bev-1",
+      "restaurantId": "rest-speed-food-hub",
+      "restaurantName": "Speed Food Hub",
+      "name": "Kulhad Special Masala Chai Flask (500ml)",
+      "category": "Beverages & Sweets",
+      "price": 99,
+      "isVeg": true,
+      "image": "/src/assets/images/banner_jabalpur_station_1792004059377.jpg",
+      "description": "Cardamom & ginger infused hot tea in an insulated leakproof flask (serves 3-4 cups). Disposable cups provided.",
+      "isAvailable": true,
+      "preparationTime": "10 mins",
+      "rating": 4.9
+    },
+    {
+      "id": "food-bev-2",
+      "restaurantId": "rest-choupal-cafe",
+      "restaurantName": "Choupal Cafe and Fine Dine",
+      "name": "Gulab Jamun (2 Pieces in Warm Syrup)",
+      "category": "Beverages & Sweets",
+      "price": 69,
+      "isVeg": true,
+      "image": "/src/assets/images/banner_indian_thali_noface_1792077362523.jpg",
+      "description": "Melt-in-mouth soft mawa gulab jamuns soaked in aromatic cardamom and rose flavored sugar syrup.",
+      "isAvailable": true,
+      "preparationTime": "5 mins",
+      "rating": 4.9
+    }
+  ],
+  "banners": [
+    {
+      "id": "banner-1",
+      "title": "India's No. 1 Train Food Delivery",
+      "subtitle": "Order fresh, hot, and hygienic restaurant food delivered directly to your train berth.",
+      "badge": "100% FSSAI Certified Partners",
+      "image": "/src/assets/images/banner_railfoody_brand_1792004058022.jpg",
+      "ctaText": "Search Trains & Order",
+      "ctaLink": "#search-section",
+      "active": true
+    },
+    {
+      "id": "banner-2",
+      "title": "Prompt Delivery Right at Your Berth",
+      "subtitle": "Our verified delivery executives hand over fresh, hot meals directly to your train coach window or seat.",
+      "badge": "Guaranteed Station Arrival Delivery",
+      "image": "/src/assets/images/banner_delivery_boy_1792004058938.jpg",
+      "ctaText": "Order on WhatsApp",
+      "ctaLink": "https://wa.me/919752693979?text=Hi%20Railfoody,%20I%20want%20to%20order%20food%20on%20my%20train",
+      "active": true
+    },
+    {
+      "id": "banner-3",
+      "title": "Authentic Indian Thalis & Flavors",
+      "subtitle": "Relish grand Maharaja thalis, biryanis, pure veg satvik food and hot rotis on your long railway journey.",
+      "badge": "Pure Veg & Jain Options Available",
+      "image": "/src/assets/images/banner_indian_thali_noface_1792077362523.jpg",
+      "ctaText": "Explore Food Menu",
+      "ctaLink": "#menu-section",
+      "active": true
+    },
+    {
+      "id": "banner-4",
+      "title": "Jabalpur Railway Station & Beyond",
+      "subtitle": "Delivering happiness across Jabalpur Junction, Itarsi, Katni, Bhopal and major Indian Railways stations.",
+      "badge": "Hub: Jabalpur Junction (JBP)",
+      "image": "/src/assets/images/banner_jabalpur_station_1792004059377.jpg",
+      "ctaText": "Find Your Station",
+      "ctaLink": "#search-section",
+      "active": true
+    }
+  ],
+  "settings": {
+    "brandName": "Railfoody",
+    "tagline": "India's No. 1 Train Food Delivery",
+    "whatsappNumber": "9752693979",
+    "phone": "+91 9752693979",
+    "email": "railfoody@gmail.com",
+    "logoUrl": "/src/assets/images/railfoody_logo_3d_1792004055907.jpg",
+    "instagramUrl": "https://instagram.com/railfoody",
+    "facebookUrl": "https://facebook.com/railfoody",
+    "metaTitle": "Railfoody - India's No. 1 Train Food Delivery",
+    "metaDescription": "Order fresh, delicious, and hygienic meals on your train journey at Jabalpur and across Indian Railways. WhatsApp Order 9752693979.",
+    "googleAnalyticsId": "G-RAILFOODY01",
+    "lastTrainSync": "2026-10-14T11:45:00.000Z",
+    "lastUpdatedDate": "14 Oct 2026",
+    "syncStatus": "Active & Verified",
+    "fssaiNumber": "11423850001245",
+    "address": "Platform 1 Circulating Area, Jabalpur Junction Railway Station, Madhya Pradesh 482001"
+  },
+  "orders": [
+    {
+      "id": "order-1792130604691",
+      "orderNumber": "RF-604691",
+      "createdAt": "2026-10-16T06:03:24.731Z",
+      "customer": {
+        "deliveryType": "train",
+        "passengerName": "Test Passenger",
+        "mobileNumber": "9752693979",
+        "trainNumber": "12192",
+        "trainName": "Shridham Express",
+        "pnrNumber": "2847582910",
+        "journeyDate": "2026-10-16",
+        "boardingStation": "Jabalpur Junction (JBP)",
+        "coachNumber": "B2",
+        "seatNumber": "34",
+        "deliveryInstructions": "Call 10 mins before arrival"
+      },
+      "restaurantId": "rest-speed-food",
+      "restaurantName": "Speed Food Hub",
+      "items": [
+        {
+          "id": "sfh-1",
+          "name": "Special Deluxe Veg Thali",
+          "price": 180,
+          "quantity": 2,
+          "isVeg": true
+        }
+      ],
+      "subtotal": 360,
+      "deliveryFee": 0,
+      "gstAmount": 15,
+      "totalAmount": 375,
+      "status": "Pending WhatsApp Confirmation",
+      "whatsAppMessage": "🍱 *NEW TRAIN FOOD ORDER — RAILFOODY* 🚆\n*Order ID:* #RF-604691\n*Date:* 16/10/2026\n\n👤 *PASSENGER DETAILS:*\n*Name:* Test Passenger\n*Mobile:* 9752693979\n\n🚄 *JOURNEY DETAILS:*\n*Train:* 12192 - Shridham Express\n*Boarding/Delivery Station:* Jabalpur Junction (JBP)\n*Journey Date:* 2026-10-16\n*PNR Number:* 2847582910\n*Coach & Seat:* Coach B2, Berth 34\n*Delivery Note:* Call 10 mins before arrival\n\n🏪 *RESTAURANT:* Speed Food Hub\n\n🛒 *ORDERED ITEMS:*\n• Special Deluxe Veg Thali x 2 (₹360)\n\n💰 *PAYMENT SUMMARY:*\n*Subtotal:* ₹360\n*Delivery Charges:* ₹0\n*GST / Taxes:* ₹15\n*TOTAL PAYABLE:* ₹375\n\n⚠️ *STATUS:* Awaiting Restaurant Confirmation.\nPlease send this message to Railfoody at 9752693979 to confirm your order."
+    }
+  ],
+  "admin": {
+    "username": "admin",
+    "email": "railfoody@gmail.com",
+    "salt": "3d4ba744c9bb8d18d78c262eab30b854",
+    "passwordHash": "ad0b270fa68aaa32ee7ba11d0acea7a29c9e365aa8395493f0a24b79694b800d4136296bf7cb2b27e4094e621670e9b018dbd3fdd95a7dfacc33d22f2f2724d2",
+    "updatedAt": "2026-10-15T15:53:08.460Z"
+  },
+  "vendorRequests": [],
+  "customers": [
+    {
+      "id": "cust-1792407285606",
+      "phone": "9876543210",
+      "name": "Rohan Sharma",
+      "email": "9876543210@railfoody.in",
+      "loginMethod": "phone",
+      "createdAt": "2026-10-19T10:54:45.606Z",
+      "lastLoginAt": "2026-10-19T10:54:45.606Z",
+      "totalOrders": 0
+    }
+  ]
+}
